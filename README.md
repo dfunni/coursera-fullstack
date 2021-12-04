@@ -1,3 +1,3 @@
 # coursera-test
 
-https://dfunni.github.io/coursera-fullstack/modlue2-solution
+https://dfunni.github.io/coursera-fullstack/module2-solution
